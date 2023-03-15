@@ -38,3 +38,5 @@
 - <meta>
 - <aside>
 - <section>
+- <article>
+- <header>
