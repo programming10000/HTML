@@ -1,20 +1,460 @@
+all {
+    background-color: antiquewhite;
+    
+}
+
+a {
+background-color: aliceblue;    
+}
+
+abbr {
+    
+}
+
+address {
+    
+}
+
+area {
+    
+}
+
+article {
+    
+}
+
+aside {
+    
+}
+
+audio {
+    
+}
+
+b {
+    
+}
+
+base {
+    
+}
+
+bdi {
+    
+}
+
+bdo {
+    
+}
+
+blockquote {
+    
+}
+
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
-    margin: 0;
-    padding: 0;
-  }
-  
-  h1 {
-    font-size: 24px;
-    color: #333333;
-    margin: 0;
-    padding: 0;
-  }
-  
-  p {
-    font-size: 14px;
-    color: #666666;
-    margin: 0;
-    padding: 0;
-  }
+    
+}
+
+br {
+    
+}
+
+button {
+    
+}
+
+canvas {
+    
+}
+
+caption {
+    
+}
+
+cite {
+    
+}
+
+code {
+    
+}
+
+col {
+    
+}
+
+colgroup {
+    
+}
+
+data {
+    
+}
+
+datalist {
+    
+}
+
+dd {
+    
+}
+
+del {
+    
+}
+
+details {
+    
+}
+
+dfn {
+    
+}
+
+dialog {
+    
+}
+
+div {
+    
+}
+
+dl {
+    
+}
+
+dt {
+    
+}
+
+em {
+    
+}
+
+embed {
+    
+}
+
+fieldset {
+    
+}
+
+figure {
+    
+}
+
+footer {
+    
+}
+
+form {
+    
+}
+
+h1 {
+    
+}
+
+h2 {
+    
+}
+
+h3 {
+    
+}
+
+h4 {
+    
+}
+
+h5 {
+    
+}
+
+h6 {
+    
+}
+
+head {
+    
+}
+
+header {
+    
+}
+
+hgroup {
+    
+}
+
+hr {
+    
+}
+
+html {
+    
+}
+
+i {
+    
+}
+
+iframe {
+    
+}
+
+img {
+    
+}
+
+input {
+    
+}
+
+ins {
+    
+}
+
+kbd {
+    
+}
+
+keygen {
+    
+}
+
+label {
+    
+}
+
+legend {
+    
+}
+
+li {
+    
+}
+
+link {
+    
+}
+
+main {
+    
+}
+
+map {
+    
+}
+
+mark {
+    
+}
+
+menu {
+    
+}
+
+menuitem {
+    
+}
+
+meta {
+    
+}
+
+meter {
+    
+}
+
+nav {
+    
+}
+
+noscript {
+    
+}
+
+object {
+    
+}
+
+ol {
+    
+}
+
+optgroup {
+    
+}
+
+option {
+    
+}
+
+output {
+    
+}
+
+p {
+    
+}
+
+param {
+    
+}
+
+picture {
+    
+}
+
+pre {
+    
+}
+
+progress {
+    
+}
+
+q {
+    
+}
+
+rb {
+    
+}
+
+rp {
+    
+}
+
+rt {
+    
+}
+
+rtc {
+    
+}
+
+ruby {
+    
+}
+
+s {
+    
+}
+
+samp {
+    
+}
+
+script {
+    
+}
+
+section {
+    
+}
+
+select {
+    
+}
+
+small {
+    
+}
+
+source {
+    
+}
+
+span {
+    
+}
+
+strong {
+    
+}
+
+style {
+    
+}
+
+sub {
+    
+}
+
+summary {
+    
+}
+
+sup {
+    
+}
+
+table {
+    
+}
+
+tbody {
+    
+}
+
+td {
+    
+}
+
+template {
+    
+}
+
+textarea {
+    
+}
+
+tfoot {
+    
+}
+
+th {
+    
+}
+
+thead {
+    
+}
+
+time {
+    background-color: aqua;
+}
+
+title {
+    
+}
+
+tr {
+    
+}
+
+track {
+    
+}
+
+u {
+    
+}
+
+ul {
+    
+}
+
+var {
+    
+}
+
+video {
+    
+}
+
+wbr {
+    
+}
