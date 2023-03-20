@@ -1,6 +1,15 @@
 # HTML
 ### Basics of html
 
+### HTML BASICS
+---
+1.attributes :- They are additional values that configure the elements or adjust their behavior in various ways to meet the criteria the users want.
+ for example paragraph element have different property or value as needed.
+ 
+ 
+ 
+ 2. elements :-
+
 ---
 #### Html Tages
 ---
