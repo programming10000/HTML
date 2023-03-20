@@ -6,6 +6,11 @@
  + attributes :- They are additional values that configure the elements or adjust their behavior in various ways to meet the criteria the users want.
   for example paragraph element have different property or value as needed.
   Each element have its own atribute definition
+ + Thier are contet type attribute
+ + interface based attributr
+ or
+ + boolan attribute
+ + Event type attribute
  
  
  + elements :-
